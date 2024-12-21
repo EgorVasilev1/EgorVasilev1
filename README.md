@@ -1,5 +1,5 @@
 
-## Инструменты и технологии.         
+## Инструменты и технологии:         
 Go, Java 17+, Spring, Hibernate,
 PostgreSQL, Redis, Docker,
 Kubernetes, Gradle, Prometheus,
