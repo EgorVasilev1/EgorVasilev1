@@ -1,8 +1,8 @@
 
 ## Инструменты и технологии:         
 Go, Java 17+, Spring, Hibernate,
-PostgreSQL, Redis, Docker,
-Kubernetes, Gradle, Prometheus,
+PostgreSQL, Redis, Elasticsearch, Docker,
+Kubernetes, Terraform, Gradle, Prometheus,
 Grafana, Git 
 
 <!---
