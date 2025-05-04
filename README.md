@@ -36,8 +36,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
 
 ### 📈 Статистика GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_NICKNAME&layout=compact&theme=dark)](https://github.com/ВАШ_NICKNAME)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_NICKNAME&show_icons=true&theme=dark)](https://github.com/ВАШ_NICKNAME)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorVasilev1&layout=compact&theme=dark)](https://github.com/EgorVasilev1)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgorVasilev1&show_icons=true&theme=dark)](https://github.com/EgorVasilev1)  
 
 ### 📫 Как связаться  
 - Telegram: [@lrxzoom1](https://t.me/lrxzoom1)  
